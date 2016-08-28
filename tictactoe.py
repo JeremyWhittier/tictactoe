@@ -6,7 +6,6 @@ gameboard = [["1", "2", "3"], ["4", "5", "6"], ["7", "8", "9"]]
 # Identify the various positions
 
 
-
 test1board = [["X", "X", "X"], ["O", "O", "O"], ["X", "X", "X"]]
 vert0board = [["X", "O", "X"], ["X", "O", "O"], ["X", "X", "O"]]
 numboard = [["1", "2", "3"], ["4", "5", "6"], ["7", "8", "9"]]
@@ -145,4 +144,3 @@ def placemove(gameboard, pospicked, xo):
 # fancyprint(numboard)
 
 wanttoplay()
-
